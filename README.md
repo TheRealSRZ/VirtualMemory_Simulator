@@ -6,7 +6,9 @@ This program aims to help demonstrates how virtual memory works in an operating 
 ## Running the Program with Terminal / Command Prompt (For All OS)
 (NOTE : Make sure you have Python libraries installed)
 1. Run the program using:
-   python virtualmem.py / py virtualmem.py
+   python virtualmem.py
+   OR
+   py virtualmem.py
 
 3. You may try out these commands in the prompt :
 (NOTE : X and Y are decimal numbers)
